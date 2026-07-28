@@ -6,6 +6,4 @@ The Boston Innovation Hub is a collaborative space where customers design, build
 
 ---
 
-## 📄 License
-
 This project is maintained by the Boston Innovation Hub team at Microsoft.
